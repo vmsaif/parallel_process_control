@@ -55,7 +55,7 @@ or
 
 NOTE: 
 - Config filename has to be "config.txt" without the quotes in the same directory. Which will be used in the program.
-- The Parent Process ID is printed at the top line of the program. Which will be used. See below.
+- The Parent Process ID is printed at the top line of the program. Which will be used later. See below.
 
 ## 1. Process herder
 
