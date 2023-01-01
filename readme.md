@@ -16,7 +16,7 @@ In this project, I implemented two programs that control the number of worker th
 - Use a chosen inter-thread communication method to control worker threads.
 - The supervisor thread only exits after all worker threads have exited, cleaning up any resources before exiting.
 
-## What I learned
+## What I have learned
 Through this project, I learned how to:
 
 - Use of **fork** and signals to communicate with processes, eg. **SIGUSR1, SIGHUP, SIGINT**.
