@@ -71,7 +71,7 @@ Changing config: change the value from inside the config file, save it then send
 ## 2. Thread herder
 To run write ./{filename}. 
 ```
-    ./a1-threads
+    ./threads
 ```
 Changing config: change the value from inside the config file, save it then send hup from another terminal with the parent process id (eg, 16228)
 ```
