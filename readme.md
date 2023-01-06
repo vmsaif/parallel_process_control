@@ -1,5 +1,5 @@
 # Parallel Process Control
-In this project, I implemented two programs that control the number of worker threads running in parallel. One program uses processes, and the other uses threads.
+In this project, I have implemented two programs that control the number of worker threads running in parallel. One program uses processes, and the other uses threads.
 
 ## Overview
 - Read a configuration file to decide how many worker processes or threads should be used.
