@@ -38,7 +38,7 @@ Shared memory is a region of memory that can be accessed by multiple processes o
 
 NOTE: running "make" without the quotes will compile all three files with a clean rule. 
 
-## Compile
+# Compile
 
 on the terminal, to compile,
 ```
@@ -56,6 +56,8 @@ or
 NOTE: 
 - Config filename has to be "config.txt" without the quotes in the same directory. Which will be used in the program.
 - The Parent Process ID is printed at the top line of the program. Which will be used later. See below.
+
+# Running
 
 ## 1. Process herder
 
