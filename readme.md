@@ -1,4 +1,4 @@
-# Programs with parallel workers
+# Parallel Process Control
 In this project, I implemented two programs that control the number of worker threads running in parallel. One program uses processes, and the other uses threads.
 
 ## Overview
