@@ -1,4 +1,7 @@
 # Parallel Process Control
+
+[![Hits](https://hits.sh/github.com/vmsaif/parallel_process_control.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/parallel_process_control/)
+
 In this project, I have implemented two programs that control the number of worker threads running in parallel. One program uses processes, and the other uses threads.
 
 ## Overview
